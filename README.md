@@ -1,1 +1,1 @@
-# MSP430---Set-Servomotor-position-based-on-Ultrasonic-Sensor-distance-measurement
+# MSP430 - Set Servomotor position based on Ultrasonic Sensor distance measurement
