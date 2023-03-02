@@ -13,5 +13,5 @@ Configuration steps used on the project:
   * Plug the device onto a protoboard
   * Connect a cable into the corresponding spot of the HC-SR04 **Vcc** pin and plug it into a MSP430 5V pin;
   * Connect a cable into the corresponding spot of the HC-SR04 **Trigger** pin and plug it into the MSP430 1.4 pin;
-  * Connect two resistors (preferably 4,7KΩ and 10KΩ) into the corresponding spot of the HC-SR04 **Echo**(to avoid MSP430 pin burn), connect a cable at the ending of the resistor and plug it into the MSP430 1.5 pin.
-  * Connect a cable into the corresponding spot of the HC-SR04 **GND** pin and plug it into a MSP430 GND pin;
+  * Connect two resistors (preferably 4,7KΩ and 10KΩ) into the corresponding spot of the HC-SR04 **Echo**(to avoid MSP430 pin burn), connect a cable at the ending of the resistor and plug it into the MSP430 1.5 pin;
+  * Connect a cable into the corresponding spot of the HC-SR04 **GND** pin and plug it into a MSP430 GND pin.
