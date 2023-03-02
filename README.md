@@ -15,3 +15,5 @@ Configuration steps used on the project:
   * Connect a cable into the corresponding spot of the HC-SR04 **Trigger** pin and plug it into the MSP430 1.4 pin;
   * Connect two resistors (preferably 4,7KΩ and 10KΩ) into the corresponding spot of the HC-SR04 **Echo**(to avoid MSP430 pin burn), connect a cable at the ending of the resistor and plug it into the MSP430 1.5 pin;
   * Connect a cable into the corresponding spot of the HC-SR04 **GND** pin and plug it into a MSP430 GND pin.
+## Project build
+![LEDs states](https://i.imgur.com/K8Fm3HD.jpg)
